@@ -1,0 +1,15 @@
+Types:
+1. Number
+2. String
+3. Boolean
+4. Null
+5. Undefined
+6. Void
+7. Null 
+8. Object
+9. Array 
+10. Tuples
+11. Any
+12. Never
+13. unknown
+14. .....
