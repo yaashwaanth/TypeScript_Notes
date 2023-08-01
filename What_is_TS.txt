@@ -32,3 +32,10 @@ null + 2 = 2
 undefined + 2 = NaN
 
 -> typescript helps to stops this behaviour.
+
+
+How to setup TypeScript ?
+1.tsc --init  -> typescript config
+2.npm init -y  -> npm packeage
+
+3.tsc -w
